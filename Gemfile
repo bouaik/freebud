@@ -66,3 +66,5 @@ group :test do
 end
 
 gem "redis"
+gem "haml-rails", "~> 2.0"
+gem "html2haml"
