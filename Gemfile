@@ -67,6 +67,4 @@ end
 
 gem "redis"
 gem "haml-rails", "~> 2.0"
-gem "html2haml"
-
 gem "devise", "~> 4.9"
